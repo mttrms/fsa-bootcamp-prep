@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/FullstackAcademy/BCP-3",
   "dependencies": {
-    "testem": "^1.6.0"
+    "testem": "^3.9.0"
   }
 }
